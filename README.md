@@ -1,7 +1,7 @@
 # na323.github.io
 ## Portafolio de TC Pro
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/na323/na323.github.io/blob/main/README.md#1-intro)
 * [2. Qué construí?](#)
 * [3. Objetivo](#)
 
