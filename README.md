@@ -12,9 +12,8 @@ HTMLS trabaja a la par con CSS para la creación de páginas web, las cuales nos
 
 # 2. Qué construí?
 Comon parte de un Bootcamp Frontend, aprendimos las características más básicas de HTML y CSS para ir comenzando a familiarizarnos, los cuales se componen de estos conocimientos:
-* **
-*
-*
+* **body:** Tamaños de letra, texto, imágenes desde carpeta e hipervínculo, listados con orden y sin orden, seleccion de respuestas
+* **footer:** Pie de página con información del creador con hipervínculos
 
 # 3. Objetivo
 
